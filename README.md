@@ -1,6 +1,8 @@
 ## Class-Roster
 
+**C++ Project**
 
+In this project, I was given the assignment of creating a student roster that specific information could be drawn from.  Information such as what classes a specified student was in or what degree program was most popular amoung the students.  A student could be added to or deleted from this roster by the user. 
 
 **Given Scenario:**
 
